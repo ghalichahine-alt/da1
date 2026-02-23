@@ -1,11 +1,7 @@
 import math 
-#print("Hello world !")
-#print("i love billiards !")
-# soient :
 a=3
-b=1.4
-# Une peut fairee lopération suivante 
+b=0.141565 
 c= a+b
-#print(c) 
+print(c) 
 d=math.sqrt(9)
 print(d)
