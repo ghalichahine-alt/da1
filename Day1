@@ -1,0 +1,11 @@
+import math 
+#print("Hello world !")
+#print("i love billiards !")
+# soient :
+a=3
+b=1.4
+# Une peut fairee lopération suivante 
+c= a+b
+#print(c) 
+d=math.sqrt(9)
+print(d)
